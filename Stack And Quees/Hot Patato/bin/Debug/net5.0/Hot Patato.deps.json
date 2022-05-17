@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hot Patato/1.0.0": {
+        "runtime": {
+          "Hot Patato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hot Patato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

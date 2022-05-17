@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\bin\Debug\net5.0\Traffic Jam.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\bin\Debug\net5.0\Traffic Jam.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\bin\Debug\net5.0\Traffic Jam.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\bin\Debug\net5.0\Traffic Jam.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\bin\Debug\net5.0\Traffic Jam.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\bin\Debug\net5.0\Traffic Jam.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\refint\Traffic Jam.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\Traffic Jam.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Traffic Jam\obj\Debug\net5.0\ref\Traffic Jam.dll

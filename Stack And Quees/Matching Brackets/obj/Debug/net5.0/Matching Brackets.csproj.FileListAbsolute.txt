@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\bin\Debug\net5.0\Matching Brackets.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\bin\Debug\net5.0\Matching Brackets.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\bin\Debug\net5.0\Matching Brackets.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\bin\Debug\net5.0\Matching Brackets.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\bin\Debug\net5.0\Matching Brackets.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\bin\Debug\net5.0\Matching Brackets.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\refint\Matching Brackets.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\Matching Brackets.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Matching Brackets\obj\Debug\net5.0\ref\Matching Brackets.dll

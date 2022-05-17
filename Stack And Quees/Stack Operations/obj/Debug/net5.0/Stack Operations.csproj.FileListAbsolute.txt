@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\bin\Debug\net5.0\Stack Operations.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\bin\Debug\net5.0\Stack Operations.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\bin\Debug\net5.0\Stack Operations.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\bin\Debug\net5.0\Stack Operations.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\bin\Debug\net5.0\Stack Operations.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\bin\Debug\net5.0\Stack Operations.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\refint\Stack Operations.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\Stack Operations.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Stack Operations\obj\Debug\net5.0\ref\Stack Operations.dll

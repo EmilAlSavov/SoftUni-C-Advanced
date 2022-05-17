@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\bin\Debug\net5.0\SuperMarket.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\bin\Debug\net5.0\SuperMarket.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\bin\Debug\net5.0\SuperMarket.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\bin\Debug\net5.0\SuperMarket.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\bin\Debug\net5.0\SuperMarket.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\bin\Debug\net5.0\SuperMarket.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\refint\SuperMarket.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\SuperMarket.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\SuperMarket\obj\Debug\net5.0\ref\SuperMarket.dll

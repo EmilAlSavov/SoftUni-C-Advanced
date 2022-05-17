@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\bin\Debug\net5.0\Print Even Numbers.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\bin\Debug\net5.0\Print Even Numbers.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\bin\Debug\net5.0\Print Even Numbers.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\bin\Debug\net5.0\Print Even Numbers.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\bin\Debug\net5.0\Print Even Numbers.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\bin\Debug\net5.0\Print Even Numbers.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\refint\Print Even Numbers.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\Print Even Numbers.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Print Even Numbers\obj\Debug\net5.0\ref\Print Even Numbers.dll

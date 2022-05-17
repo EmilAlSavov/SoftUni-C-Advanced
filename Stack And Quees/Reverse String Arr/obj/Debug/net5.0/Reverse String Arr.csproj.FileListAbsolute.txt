@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\bin\Debug\net5.0\Reverse String Arr.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\bin\Debug\net5.0\Reverse String Arr.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\bin\Debug\net5.0\Reverse String Arr.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\bin\Debug\net5.0\Reverse String Arr.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\bin\Debug\net5.0\Reverse String Arr.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\bin\Debug\net5.0\Reverse String Arr.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\refint\Reverse String Arr.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\Reverse String Arr.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Reverse String Arr\obj\Debug\net5.0\ref\Reverse String Arr.dll

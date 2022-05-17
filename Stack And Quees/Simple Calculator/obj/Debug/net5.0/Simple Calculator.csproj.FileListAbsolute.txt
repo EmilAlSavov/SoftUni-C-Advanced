@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\bin\Debug\net5.0\Simple Calculator.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\bin\Debug\net5.0\Simple Calculator.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\bin\Debug\net5.0\Simple Calculator.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\bin\Debug\net5.0\Simple Calculator.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\refint\Simple Calculator.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\Simple Calculator.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Simple Calculator\obj\Debug\net5.0\ref\Simple Calculator.dll

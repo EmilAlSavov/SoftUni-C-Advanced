@@ -1,0 +1,16 @@
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\bin\Debug\net5.0\Hot Patato.exe
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\bin\Debug\net5.0\Hot Patato.deps.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\bin\Debug\net5.0\Hot Patato.runtimeconfig.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\bin\Debug\net5.0\Hot Patato.runtimeconfig.dev.json
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\bin\Debug\net5.0\Hot Patato.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\bin\Debug\net5.0\Hot Patato.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.csproj.AssemblyReference.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.AssemblyInfoInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.AssemblyInfo.cs
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.csproj.CoreCompileInputs.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\refint\Hot Patato.dll
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.pdb
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\Hot Patato.genruntimeconfig.cache
+D:\Programing\C# Advanced Projects\Stack And Quees\Hot Patato\obj\Debug\net5.0\ref\Hot Patato.dll
