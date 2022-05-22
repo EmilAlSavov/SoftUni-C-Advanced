@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary Diagonal", "Primary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbol in Matrix", "Symbol in Matrix\Symbol in Matrix.csproj", "{823CD6BB-CAEA-4692-A561-79F8B24059DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged-Array Modification", "Jagged-Array Modification\Jagged-Array Modification.csproj", "{CD48CCC7-45A5-4E61-BBEB-FC06BEB4CB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal Triangle", "Pascal Triangle\Pascal Triangle.csproj", "{0FA8FD82-A70B-4051-85BA-051547DDB6F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{823CD6BB-CAEA-4692-A561-79F8B24059DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{823CD6BB-CAEA-4692-A561-79F8B24059DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{823CD6BB-CAEA-4692-A561-79F8B24059DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD48CCC7-45A5-4E61-BBEB-FC06BEB4CB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD48CCC7-45A5-4E61-BBEB-FC06BEB4CB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD48CCC7-45A5-4E61-BBEB-FC06BEB4CB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD48CCC7-45A5-4E61-BBEB-FC06BEB4CB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA8FD82-A70B-4051-85BA-051547DDB6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA8FD82-A70B-4051-85BA-051547DDB6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA8FD82-A70B-4051-85BA-051547DDB6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA8FD82-A70B-4051-85BA-051547DDB6F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
