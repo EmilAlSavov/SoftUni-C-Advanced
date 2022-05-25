@@ -8,7 +8,7 @@ namespace Average_Student_Grades
     {
         static void Main(string[] args)
         {
-            var studentGrades = new Dictionary<string, List<double>>();
+            var studentGrades = new Dictionary<string, List<decimal>>();
 
             int n = int.Parse(Console.ReadLine());
 
@@ -17,11 +17,11 @@ namespace Average_Student_Grades
                 string[] input = Console.ReadLine().Split(' ');
 
                 string name = input[0];
-                double grade = double.Parse(input[1]);
+                decimal grade = decimal.Parse(input[1]);
 
                 if (!studentGrades.ContainsKey(name))
                 {
-                    studentGrades.Add(name, new List<double> { grade});
+                    studentGrades.Add(name, new List<decimal> { grade});
                 }
                 else
                 {
@@ -31,11 +31,11 @@ namespace Average_Student_Grades
 
             foreach (var student in studentGrades)
             {
-                Console.WriteLine($"{student.Key} -> {PrintList(student.Value)}(avg: {(student.Value.Sum() / student.Value.Count) :F2})");
+                Console.WriteLine($"{student.Key} -> {PrintList(student.Value)}(avg: {(student.Value.Average()) :F2})");
             }
         }
 
-        public static string PrintList(List<double> list)
+        public static string PrintList(List<decimal> list)
         {
             string result = string.Empty;
             foreach (var item in list)
