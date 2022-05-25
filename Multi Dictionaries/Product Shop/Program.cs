@@ -31,7 +31,7 @@ namespace Product_Shop
 
             foreach (var shop in dic)
             {
-                Console.WriteLine($"{shop.Key} ->");
+                Console.WriteLine($"{shop.Key}->");
                 foreach (var product in shop.Value)
                 {
                     Console.WriteLine($"Product: {product.Key}, Price: {product.Value}");
