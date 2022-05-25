@@ -26,7 +26,7 @@ namespace Count_Same_Values_In_Dic
 
             foreach (var item in dic)
             {
-                Console.WriteLine($"{item.Key} - {item.Value}");
+                Console.WriteLine($"{item.Key} - {item.Value} times");
             }
         }
     }
