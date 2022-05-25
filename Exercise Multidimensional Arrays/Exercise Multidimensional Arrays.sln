@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{58AF16C9-3F5D-4223-946A-CB2B72622064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{58AF16C9-3F5D-4223-946A-CB2B72622064}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2X2 Squares in Matrix", "2X2 Squares in Matrix\2X2 Squares in Matrix.csproj", "{FA77F632-07CC-4D89-BB1F-DD810D7132BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2X2 Squares in Matrix", "2X2 Squares in Matrix\2X2 Squares in Matrix.csproj", "{FA77F632-07CC-4D89-BB1F-DD810D7132BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap Elements In Matrix", "Swap Elements In Matrix\Swap Elements In Matrix.csproj", "{31283DEF-864A-4055-AB50-917E3F687192}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FA77F632-07CC-4D89-BB1F-DD810D7132BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA77F632-07CC-4D89-BB1F-DD810D7132BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA77F632-07CC-4D89-BB1F-DD810D7132BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31283DEF-864A-4055-AB50-917E3F687192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31283DEF-864A-4055-AB50-917E3F687192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31283DEF-864A-4055-AB50-917E3F687192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31283DEF-864A-4055-AB50-917E3F687192}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
