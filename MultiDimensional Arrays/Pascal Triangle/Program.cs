@@ -6,15 +6,15 @@ namespace Pascal_Triangle
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
+            long n = long.Parse(Console.ReadLine());
 
-            int[][] jagged = new int[n][];
+            long[][] jagged = new long[n][];
 
-            jagged[0] = new int[1] {1};
+            jagged[0] = new long[1] {1};
 
             for (int row = 1; row < n; row++)
             {
-                jagged[row] = new int[jagged[row - 1].Length + 1];
+                jagged[row] = new long[jagged[row - 1].Length + 1];
 
                 for (int col = 0; col < jagged[row].Length; col++)
                 {
