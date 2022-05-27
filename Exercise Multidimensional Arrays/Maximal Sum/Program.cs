@@ -10,7 +10,7 @@ namespace Maximal_Sum
         {
             int[] size = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-            Dictionary<string, int> sumList = new Dictionary<string, int>();
+            Dictionary<string, long> sumList = new Dictionary<string, long>();
 
             int rows= size[0];
             int cols= size[1];
@@ -23,7 +23,7 @@ namespace Maximal_Sum
             {
                 for (int j = 0; j < cols - 2; j++)
                 {
-                    int sum = matrix[i, j]
+                    long sum = matrix[i, j]
                         + matrix[i, j + 1]
                         + matrix[ i, j + 2]
                         + matrix[i + 1, j]
@@ -33,7 +33,7 @@ namespace Maximal_Sum
                         + matrix[i + 2, j + 1]
                         + matrix[i + 2, j + 2];
 
-                    sumList.Add($"{matrix[i, j]} {matrix[i, j + 1]} {matrix[i, j + 2]}\n\r{matrix[i + 1, j]} {matrix[i + 1, j + 1]} {matrix[i + 1, j + 2]}\r\n{matrix[i + 2, j]} {matrix[i + 2, j + 1]} { matrix[i + 2, j + 2]}", sum);
+                    sumList.Add($"{matrix[i, j]} {matrix[i, j + 1]} {matrix[i, j + 2]}\n{matrix[i + 1, j]} {matrix[i + 1, j + 1]} {matrix[i + 1, j + 2]}\n{matrix[i + 2, j]} {matrix[i + 2, j + 1]} { matrix[i + 2, j + 2]}", sum);
                 }
             }
             sumList = sumList.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
