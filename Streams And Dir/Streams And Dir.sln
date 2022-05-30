@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams And Dir", "Streams And Dir\Streams And Dir.csproj", "{A7C5C0C3-7AD7-4AB4-8938-D2E729EC2F1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line Numbers", "Line Numbers\Line Numbers.csproj", "{603A0C6C-4777-45A9-9FBA-9DDE18903FAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A7C5C0C3-7AD7-4AB4-8938-D2E729EC2F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7C5C0C3-7AD7-4AB4-8938-D2E729EC2F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7C5C0C3-7AD7-4AB4-8938-D2E729EC2F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603A0C6C-4777-45A9-9FBA-9DDE18903FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603A0C6C-4777-45A9-9FBA-9DDE18903FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603A0C6C-4777-45A9-9FBA-9DDE18903FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603A0C6C-4777-45A9-9FBA-9DDE18903FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

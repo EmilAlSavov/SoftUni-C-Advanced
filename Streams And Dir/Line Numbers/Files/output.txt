@@ -1,0 +1,37 @@
+0. using System.IO;
+0. 
+0. namespace OddLines
+0. {
+0.     public class OddLines
+0.     {
+0.         static void Main()
+0.         {
+0.             string inputFilePath = @"..\..\..\Files\input.txt";
+0.             string outputFilePath = @"..\..\..\Files\output.txt";
+0. 
+0.             ExtractOddLines(inputFilePath, outputFilePath);
+0.         }
+0. 
+0.         public static void ExtractOddLines(string inputFilePath, string outputFilePath)
+0.         {
+0.             StreamReader reader = new StreamReader(inputFilePath);
+0. 
+0.             using (reader)
+0.             {
+0.                 StreamWriter writer = new StreamWriter(outputFilePath);
+0. 
+0.                 using (writer)
+0.                 {
+0.                     while (true)
+0.                     {
+0.                         int counter = 0;
+0.                         string line = reader.ReadLine();
+0.                         if (line == null) break;
+0.                         writer.WriteLine(counter + ". " + line);
+0.                     }
+0.                 }
+0.             }
+0.         }
+0.     }
+0. }
+0. 
