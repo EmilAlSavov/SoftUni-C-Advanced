@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam", "Exam\Exam.csproj", "{BBD295B5-08D5-4C33-A1B5-27B64F149CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wall Destroyer", "Wall Destroyer\Wall Destroyer.csproj", "{56D56D02-5556-45A0-ADEA-311EE5A6DDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD295B5-08D5-4C33-A1B5-27B64F149CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD295B5-08D5-4C33-A1B5-27B64F149CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD295B5-08D5-4C33-A1B5-27B64F149CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD295B5-08D5-4C33-A1B5-27B64F149CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D56D02-5556-45A0-ADEA-311EE5A6DDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D56D02-5556-45A0-ADEA-311EE5A6DDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D56D02-5556-45A0-ADEA-311EE5A6DDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D56D02-5556-45A0-ADEA-311EE5A6DDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2FB61A-EF4B-4B80-86A9-8F3C4AC2BC77}
+	EndGlobalSection
+EndGlobal
