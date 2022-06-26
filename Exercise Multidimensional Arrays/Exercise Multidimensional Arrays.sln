@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2X2 Squares in Matrix", "2X
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swap Elements In Matrix", "Swap Elements In Matrix\Swap Elements In Matrix.csproj", "{31283DEF-864A-4055-AB50-917E3F687192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{8EB4C2BD-8D35-4732-8CF4-6429719259DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{8EB4C2BD-8D35-4732-8CF4-6429719259DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombs", "Bombs\Bombs.csproj", "{C2000F88-0D36-45FC-BCEE-F281ED8A6EBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8EB4C2BD-8D35-4732-8CF4-6429719259DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EB4C2BD-8D35-4732-8CF4-6429719259DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EB4C2BD-8D35-4732-8CF4-6429719259DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2000F88-0D36-45FC-BCEE-F281ED8A6EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2000F88-0D36-45FC-BCEE-F281ED8A6EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2000F88-0D36-45FC-BCEE-F281ED8A6EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2000F88-0D36-45FC-BCEE-F281ED8A6EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
